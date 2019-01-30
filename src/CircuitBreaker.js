@@ -19,8 +19,7 @@ class CircuitBreaker extends React.Component {
 
             </div>
         );
-    }
-    
+    } 
 }
 
 export default CircuitBreaker;
