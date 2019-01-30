@@ -1,0 +1,12 @@
+img{
+    height: 40px;
+    padding: 5px 5px;
+}
+
+.line{
+    width: 5px;
+    height: 100px;
+    border-right: 1px solid black;
+    position: absolute;
+    color: green;
+}
